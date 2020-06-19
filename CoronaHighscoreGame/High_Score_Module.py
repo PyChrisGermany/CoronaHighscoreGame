@@ -22,7 +22,7 @@ BLACK     = (  0,   0,   0)
 NEARBLACK = ( 19,  15,  48)
 LIGHTBLUE   = (33, 202, 255)
 
-url = 'https://www.paypal.me/chrismatzke90'
+url = 'https:xxx'
 
 font = pygame.font.SysFont('Comic Sans MS', 40)
 font2 = pygame.font.SysFont('Comic Sans MS', 40)
